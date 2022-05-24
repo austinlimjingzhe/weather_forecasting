@@ -1,7 +1,6 @@
-# Weather Forecasting in Singapore: Predicting the Occurrence of Rainfall Using Classification
-Techniques on Scraped Meteorological Data
+# Weather Forecasting in Singapore: Predicting the Occurrence of Rainfall Using Classification Techniques on Scraped Meteorological Data
 
-This originally personal project was adapted for submission as SMU IS424-Data Mining and Business Analytics Project
+This originally personal project was adapted for submission as SMU IS424-Data Mining and Business Analytics Project<br>
 Grade: A-
 
 ## Executive Summary:
